@@ -1,0 +1,7 @@
+C:\Users\George\source\repos\museo\museo\obj\Debug\museo.csproj.AssemblyReference.cache
+C:\Users\George\source\repos\museo\museo\obj\Debug\museo.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\museo\museo\bin\Debug\museo.exe.config
+C:\Users\George\source\repos\museo\museo\bin\Debug\museo.exe
+C:\Users\George\source\repos\museo\museo\bin\Debug\museo.pdb
+C:\Users\George\source\repos\museo\museo\obj\Debug\museo.exe
+C:\Users\George\source\repos\museo\museo\obj\Debug\museo.pdb
